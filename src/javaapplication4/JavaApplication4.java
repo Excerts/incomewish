@@ -10,7 +10,7 @@ package incomewish;
  *
  * @author class
  */
-public class JavaApplication4 {
+public class incomewish {
 
     /**
      * @param args the command line arguments
